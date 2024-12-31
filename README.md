@@ -22,6 +22,8 @@ docker --version
 git clone the repo
 
 cd docker-mosquitto-mqtt
+
 chmod +x init.sh
+
 ./init.sh
 
