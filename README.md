@@ -17,5 +17,11 @@ sudo apt install docker.io
 sudo snap install docker
 
 docker --version
+```
 
+git clone the repo
+
+cd docker-mosquitto-mqtt
+chmod +x init.sh
+./init.sh
 
